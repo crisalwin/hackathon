@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84178f9d-934f-410e-96e8-9b3782b64dc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/hackapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/hackapp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/hackapp/templates/display.html" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/hackapp/templates/display.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/hackapp/templates/excel.html" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/hackapp/templates/excel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/hackapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/hackapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackathon/hackapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon/hackapp/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="84178f9d-934f-410e-96e8-9b3782b64dc6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +73,17 @@
       <updated>1661581781435</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
